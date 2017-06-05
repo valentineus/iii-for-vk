@@ -1,4 +1,8 @@
 # iii-for-vk
+[![npm](https://img.shields.io/npm/v/iii-for-vk.svg)](https://www.npmjs.com/package/iii-for-vk)
+[![dependencies Status](https://david-dm.org/valentineus/iii-for-vk/status.svg)](https://david-dm.org/valentineus/iii-for-vk)
+[![devDependencies Status](https://david-dm.org/valentineus/iii-for-vk/dev-status.svg)](https://david-dm.org/valentineus/iii-for-vk?type=dev)
+
 ## Description
 This package contains a minimalistic and simple API for the rapid deployment of the bot under the social network VK.
 Created to demonstrate the possibilities of using the `iii-client` package.
