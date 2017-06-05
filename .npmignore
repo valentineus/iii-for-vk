@@ -58,7 +58,7 @@ typings/
 .env
 
 # Source
-src/
+/src/
 
 # Example of use
-example.js
+/example.js
