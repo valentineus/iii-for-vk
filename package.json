@@ -1,6 +1,6 @@
 {
   "name": "iii-for-vk",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple automatic reply to incoming messages.",
   "homepage": "https://github.com/valentineus/iii-for-vk",
   "main": "lib/core.js",

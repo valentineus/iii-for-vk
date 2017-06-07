@@ -1,4 +1,4 @@
-var ChatBot = require('./lib/core.js');
+var ChatBot = require('iii-for-vk');
 
 var bot = new ChatBot({
     appID: "id",         // The application ID

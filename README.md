@@ -21,10 +21,11 @@ A simple example that implements an answering machine is at the root of the repo
 This is the file `example.js`.
 In the NPM package it is not included to reduce the volume:
 ```bash
-$ git clone https://github.com/valentineus/iii-for-vk.git
-$ cd ./iii-for-vk
-# Edit the file example.js
-$ node ./example.js
+$ npm init
+$ npm install --save iii-for-vk
+$ curl -L -o index.js https://raw.githubusercontent.com/valentineus/iii-for-vk/master/example.js
+// Edit the file index.js
+$ node ./index.js
 ```
 
 ## Expanding functionality
